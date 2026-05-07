@@ -1,3 +1,5 @@
+# 👩🏻‍💻 Bryan Foch
+
 **`Analista de TI | Automação | IA | DevOps`**
 
 Me chamo Bryan Foch, sou do Rio de Janeiro e atuo na área de Tecnologia da Informação com foco em infraestrutura, automação, inteligência artificial e desenvolvimento Frontend e backend. Atualmente trabalho com suporte técnico, Docker, automações, Python, React Native e integrações de APIs. Sou apaixonado por tecnologia e por construir soluções inteligentes, escaláveis e aplicadas ao mundo real.

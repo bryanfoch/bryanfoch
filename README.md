@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Bryan Foch
 
-**`Analista de TI | Automação | IA | DevOps`**
+**`Analista de TI | Automação | IA | Desenvolvimento de Software`**
 
-Me chamo Bryan Foch, sou do Rio de Janeiro e atuo na área de Tecnologia da Informação com foco em infraestrutura, automação, inteligência artificial e desenvolvimento Frontend e backend. Atualmente trabalho com suporte técnico, Docker, automações, Python, React Native e integrações de APIs. Sou apaixonado por tecnologia e por construir soluções inteligentes, escaláveis e aplicadas ao mundo real.
+Me chamo Bryan Foch, sou do Rio de Janeiro e atuo na área de Tecnologia da Informação com foco em desenvolvimento Full Stack, infraestrutura, automação e inteligência artificial. Tenho experiência com Python, React Native, Docker, integrações de APIs e suporte técnico, desenvolvendo soluções modernas, escaláveis e voltadas para otimização de processos. Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de sistemas inteligentes aplicados a problemas reais.
 
 <p align="left">
     <a href="https://github.com/bryanfoch?tab=followers">

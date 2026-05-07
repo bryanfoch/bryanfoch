@@ -5,13 +5,6 @@
 Me chamo Bryan Foch, sou do Rio de Janeiro e atuo na área de Tecnologia da Informação com foco em desenvolvimento Full Stack, infraestrutura, automação e inteligência artificial. Tenho experiência com Python, React Native, Docker, integrações de APIs e suporte técnico, desenvolvendo soluções modernas, escaláveis e voltadas para otimização de processos. Sou apaixonado por tecnologia, aprendizado contínuo e pela criação de sistemas inteligentes aplicados a problemas reais.
 
 <p align="left">
-    <a href="https://github.com/bryanfoch?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/bryanfoch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/bryanfoch?tab=repositories">
         <img 
             alt="Repositórios" 

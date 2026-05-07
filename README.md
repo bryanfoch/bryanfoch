@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bryan Foch
+# 🧑🏻‍💻Bryan Foch
 
 **`Analista de TI | Automação | IA | Desenvolvimento de Software`**
 

@@ -30,19 +30,13 @@ Passionate about building scalable systems, intelligent workflows and real-world
 
 <div align="center">
 
-<img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-<img align="center" alt="React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
-<img align="center" alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img alt="React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 
 </div>
 

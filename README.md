@@ -1,91 +1,128 @@
-<div align="center">
+# 👩🏻‍💻 Bryan Foch
 
-# 👨‍💻 Bryan Foch
+**`Analista de TI | Automação | IA | DevOps`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F72D&center=true&vCenter=true&width=1000&lines=IT+Analyst;Automation+%26+AI+Developer;Python+%7C+Docker+%7C+DevOps;Building+Intelligent+Systems" />
+Me chamo Bryan Foch, sou do Rio de Janeiro e atuo na área de Tecnologia da Informação com foco em infraestrutura, automação, inteligência artificial e desenvolvimento backend. Atualmente trabalho com suporte técnico, Docker, automações, Python, React Native e integrações de APIs. Sou apaixonado por tecnologia e por construir soluções inteligentes, escaláveis e aplicadas ao mundo real.
 
-</div>
-
----
-
-## 🚀 About Me
-
-IT professional focused on Infrastructure, Automation, AI solutions and Backend Development.
-
-Currently working with:
-
-- Python
-- Docker
-- Automation
-- React Native
-- APIs
-- AI Assistants
-- DevOps & Cloud studies
-
-Passionate about building scalable systems, intelligent workflows and real-world technology solutions.
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img alt="TypeScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-<img alt="React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-
-</div>
+<p align="left">
+    <a href="https://github.com/bryanfoch?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/bryanfoch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/bryanfoch?tab=repositories">
+        <img 
+            alt="Repositórios" 
+            title="Meus projetos" 
+            src="https://custom-icon-badges.demolab.com/badge/-Projetos-black?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/bryan-foch/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:bryanfoch123@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Entre em contato" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanfoch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<br/>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfoch&layout=compact&langs_count=7&theme=tokyonight"/>
+### 📊 Estatísticas
 
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bryanfoch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanfoch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Bryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanfoch&theme=tokyo-night)](https://github.com/bryanfoch)
-
-</div>
-
----
-
-## 🌐 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bryan-foch/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:bryanfoch123@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/bryanfoch" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=bryanfoch&color=blueviolet&style=for-the-badge)
-
-</div>
+</p>
